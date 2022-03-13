@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WEB_Lab_2.Models;
-using System;
 
 namespace WEB_Lab_2.Controllers
 {
